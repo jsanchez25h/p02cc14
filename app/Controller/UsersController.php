@@ -14,7 +14,7 @@ class UsersController extends AppController {
 		$this->layout = 'ajax';
 		$this->loadModel('User');
 		$arr_obj_user = $this->User->all_User();
-		pr($arr_obj_user);
+		//pr($arr_obj_user);
 		//debug($data);
 		//pr($data);
 		//print_r($data);
