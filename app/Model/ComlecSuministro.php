@@ -7,6 +7,8 @@ class ComlecSuministro extends AppModel {
 	 * @param User.username $username
 	 * @return boolean|User
 	 */
+
+	public $name = 'ComlecSuministro';
 	public function all_suministros(){
 		return $this->find('all');
 	}

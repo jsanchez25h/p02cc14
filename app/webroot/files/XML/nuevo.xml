@@ -1,0 +1,40 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Datos>
+    <PFactura>201402</PFactura>
+    <Unidad_Neg>26</Unidad_Neg>
+    <Sector>1308</Sector>
+    <Ruta>10653</Ruta>
+    <LCorrelati>4532</LCorrelati>
+    <Suministro>35582188</Suministro>
+    <Concepto>  1</Concepto>
+    <Concepto_D>Energia Activa Total</Concepto_D>
+    <Marca>SCORPION</Marca>
+    <Modelo>SC-LCD</Modelo>
+    <SerieFab>000000008194483     </SerieFab>
+    <Digitos>6</Digitos>
+    <Nombre>Gamarra Campos, Helga Bertha</Nombre>
+    <Direccion>Ca. SALVADOR ALLENDE Nº 819  Urb.Popu. Santa María</Direccion>
+    <DireccionR>Ca. SALVADOR ALLENDE Nº 819  Urb.Popu. Santa María</DireccionR>
+    <LecturaO />
+    <OrdTrabajo>  25100311377</OrdTrabajo>
+    <Cartera>C</Cartera>
+    <FLectura />
+    <CodLectura />
+    <Factor>1.0000</Factor>
+    <LecAAnt>576.0000</LecAAnt>
+    <LecAnt>630.0000</LecAnt>
+    <Promedio>35.5000</Promedio>
+    <ConsRet>0.0000</ConsRet>
+    <ConsAnt>54.0000</ConsAnt>
+    <DemandaAct />
+    <TConexion> 0</TConexion>
+    <IdCiclo>2068</IdCiclo>
+    <NombCiclo>Chiclayo 09</NombCiclo>
+    <NombRuta>2010908</NombRuta>
+    <PInicio>201301</PInicio>
+    <Tarifa>BT5BR</Tarifa>
+    <ZonaOpt>203</ZonaOpt>
+    <SectorOpt>08</SectorOpt>
+  </Datos>
+  </DocumentElement>

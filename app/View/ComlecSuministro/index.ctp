@@ -22,13 +22,16 @@
 
   
 
-foreach ($arr_suministros as $obj){
+/*foreach ($arr_suministros as $obj){
 	echo $obj['ComlecSuministro']['id'].'<br>';
 }
 
+*/
 
 
         ?>
+
+        
   <!-- Añadir un pie de página a cada página mostrada -->
   <div id="pie">...</div>
 
